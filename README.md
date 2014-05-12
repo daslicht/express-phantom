@@ -1,5 +1,6 @@
 express-phantom
 ===============
+forked from cwiz/express-phantom
 
 express-phantom middleware tests user agent against known browsers using useragent npm module. If no browser detected it renders the page using phantomjs.
 
